@@ -92,16 +92,6 @@ docker-compose up --build
 
 Visit: http://localhost:3000
 
-## ⚠️ Known Issues
-
-**Next.js 16.1.4 Build Error**: Production build fails due to Turbopack bug during error page prerendering.
-
-**Workaround**: Use development mode:
-```bash
-npm run dev
-```
-
-All features work perfectly. See [KNOWN_ISSUES.md](./KNOWN_ISSUES.md) for details.
 
 ## 📦 Tech Stack
 
