@@ -109,10 +109,4 @@ Visit: http://localhost:3000
 - `data-testid="search-input"`
 - `data-testid="newsletter-form"`
 
-## 📄 License
 
-MIT License
-
----
-
-**Built with ❤️ using Next.js, React, and TypeScript**
