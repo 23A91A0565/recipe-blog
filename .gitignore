@@ -39,3 +39,49 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.AppleDouble
+.LSOverride
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+Thumbs.db
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Local development
+.env.local
+.env.*.local
+*.local
+
+# Build artifacts
+dist/
+build/
+*.tgz
+*.tar.gz
+
+# IDE extensions
+.eslintcache
+.stylelintcache
+
+# Logs
+logs/
+*.log
+lerna-debug.log*
+
+# Misc files
+*.swp
+*.swo
+*~
+.cache/
