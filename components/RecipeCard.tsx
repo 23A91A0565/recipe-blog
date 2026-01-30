@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { useTranslation } from 'next-i18next';
 import { useState } from 'react';
 
+
 interface RecipeCardProps {
   recipe: {
     id: string;
