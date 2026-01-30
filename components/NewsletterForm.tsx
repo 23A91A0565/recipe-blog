@@ -5,6 +5,7 @@ interface NewsletterFormProps {
   className?: string;
 }
 
+
 export default function NewsletterForm({ className = '' }: NewsletterFormProps) {
   const { t } = useTranslation('common');
   const [email, setEmail] = useState('');
