@@ -7,6 +7,7 @@ import RecipeCard from '../../components/RecipeCard';
 import NewsletterForm from '../../components/NewsletterForm';
 import cmsService from '../../lib/cmsService';
 
+
 interface Recipe {
   id: string;
   slug: string;
