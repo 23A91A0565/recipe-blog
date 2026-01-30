@@ -2,6 +2,7 @@
 
 A modern, fully-featured recipe blog application built with Next.js, React, TypeScript, and Tailwind CSS, with built-in support for English, Spanish, and French.
 
+
 ## 🌟 Features
 
 - **Multi-Language Support**: English, Spanish, and French with next-i18next
