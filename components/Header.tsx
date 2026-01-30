@@ -7,6 +7,7 @@ export default function Header() {
   const { t } = useTranslation('common');
   const [mounted, setMounted] = useState(false);
 
+  
   useEffect(() => {
     setMounted(true);
   }, []);
