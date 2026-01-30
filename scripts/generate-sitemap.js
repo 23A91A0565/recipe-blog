@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
+
 // Mock recipes data for sitemap generation
 const MOCK_RECIPES = {
   en: [
